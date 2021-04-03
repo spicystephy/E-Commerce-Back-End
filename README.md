@@ -1,7 +1,7 @@
 # E-Commerce-Back-End
 
 ## Description
-
+For managers with internet retail companies that want a back end service for their websites. The goal is to compete with other e-commerce retailers and increase revenue.
     
 ## Table Of Contents
     
@@ -22,7 +22,7 @@ Use nodemon to run server and use Insomnia Core to test routes.
 
 
 ## Testing
-Once jest is loaded, change "scripts": to read "test": "jest" in package.json.
+See videos for how to run with Insomnia and seeding:
 * Insomnia Test [Testing Video](https://youtu.be/oTGF9DnCIZc)
 * Seeding Test [Testing Video](https://youtu.be/oTGF9DnCIZc)
 
