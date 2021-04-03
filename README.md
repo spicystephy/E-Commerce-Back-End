@@ -14,6 +14,7 @@
  * [Questions](#questions)
 
 ## Installation
+Dependencies required are dotenv, express, mysql2, and sequelize.
 
 
 ## Usage
@@ -24,9 +25,9 @@ Use nodemon to run server and use Insomnia Core to test routes.
 Once jest is loaded, change "scripts": to read "test": "jest" in package.json.
 * Insomnia Test [Testing Video](https://youtu.be/oTGF9DnCIZc)
 * Seeding Test [Testing Video](https://youtu.be/oTGF9DnCIZc)
-* Categories Test [Testing Video](https://youtu.be/oTGF9DnCIZc)
+
 
 ## Questions
 Contact me at stephaniemzavala@gmail.com or through GitHub at spicystephy for any questions.
-<br>https://github.com/spicystephy/Team-Profile-Generator.git
-<br>https://spicystephy.github.io/Team-Profile-Generator/.
+<br>https://github.com/spicystephy/E-Commerce-Back-End.git
+<br>https://spicystephy.github.io/E-Commerce-Back-End/
